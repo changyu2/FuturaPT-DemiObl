@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'FuturaPT-DemiObl';
+    src: url('Futura PT Demi Oblique.eot'),
+        url('Futura-PT-Demi-Oblique.eot?#iefix') format('embedded-opentype'),
+        url('FuturaPT-DemiObl.woff2') format('woff2'),
+        url('FuturaPT-DemiObl.woff') format('woff'),
+        url('FuturaPT-DemiObl.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
